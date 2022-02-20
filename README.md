@@ -1,5 +1,4 @@
 # ADOFAI_Drawer    
-=============   
    
 * 프로그램 설명 (Information)    
 > 특정한 타일들을 일정한 bpm으로 바꿔줍니다   
