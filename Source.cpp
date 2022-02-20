@@ -37,5 +37,6 @@ int main(int argc, char **argv) {
 	drawer.SaveData(adofai, tile, type);
 	drawer.Save(adofai);
 	cout << "Completed" << endl;
+	system("pause");
 	return 0;
 }
