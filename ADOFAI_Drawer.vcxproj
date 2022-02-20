@@ -74,8 +74,8 @@
     <LibraryPath>D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>E:\Library\ImageMagick-7.1.0-Q16-HDRI\include\Magick++;E:\Library\ImageMagick-7.1.0-Q16-HDRI\include;$(IncludePath)</IncludePath>
-    <LibraryPath>E:\Library\ImageMagick-7.1.0-Q16-HDRI\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\include\Magick++;D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
