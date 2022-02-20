@@ -1,0 +1,7 @@
+[ ADOFAI Drawer ]
+
+이미지를 맵으로 변환해줍니다
+Developer : CLiF
+Version : 1.0
+
+프로그램 사용 시 출처를 밝혀주세요
