@@ -29,7 +29,6 @@ void Drawer::Drawing(int x, int y) {
 	this->img.pixelColor(x, y, pixel);
 
 	//Search
-	
 	Drawing(x, y - 1); //up
 	Drawing(x - 1, y); //left
 	Drawing(x - 1, y - 1); //left up

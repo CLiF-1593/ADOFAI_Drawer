@@ -47,7 +47,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v141</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
@@ -70,7 +70,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>D:\Development\LibraryLibrary\ImageMagick-7.1.0-Q16-HDRI\include\Magick++;D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\include;$(IncludePath)</IncludePath>
+    <IncludePath>D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\include;D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\include\Magick++;$(IncludePath)</IncludePath>
     <LibraryPath>D:\Development\Library\ImageMagick-7.1.0-Q16-HDRI\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
